@@ -1,0 +1,63 @@
+A:link {
+	FONT-SIZE: 12px; COLOR: #cccccc; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #cccccc; TEXT-DECORATION: none
+}
+A:active {
+	FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+BODY {
+	FONT-SIZE: 12px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+TABLE {
+	FONT-SIZE: 12px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+TR {
+	FONT-SIZE: 12px
+}
+TD {
+	FONT-SIZE: 12px
+}
+.editbox1 {
+	BORDER-RIGHT: #444444 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #444444 1px solid; PADDING-LEFT: 1px; FONT-SIZE: 12px; PADDING-BOTTOM: 1px; BORDER-LEFT: #444444 1px solid; CURSOR: text; COLOR: #cccccc; PADDING-TOP: 1px; BORDER-BOTTOM: #444444 1px solid; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; HEIGHT: 18px; BACKGROUND-COLOR: #7c7ca7
+}
+.button1 {
+	BORDER-RIGHT: #444444 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #444444 1px solid; PADDING-LEFT: 1px; FONT-SIZE: 12px; BACKGROUND: #0063B1; PADDING-BOTTOM: 1px; BORDER-LEFT: #444444 1px solid; CURSOR: hand; COLOR: #cccccc; PADDING-TOP: 1px; BORDER-BOTTOM: #444444 1px solid; FONT-FAMILY: "ËÎÌו"; HEIGHT: 18px
+}
+.thecolor {
+	BORDER-RIGHT: #8282ac 1px solid; BORDER-TOP: #8282ac 1px solid; BORDER-LEFT: #8282ac 1px solid; CURSOR: hand; COLOR: #d2d3e1; BORDER-BOTTOM: #8282ac 1px solid; BACKGROUND-COLOR: #53537b
+}
+.newfont2 {
+	FONT-SIZE: 9px; COLOR: #000000; LINE-HEIGHT: normal; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+BODY {
+	MARGIN: 0px
+}
+TD {
+	MARGIN: 0px
+}
+A.d:link {
+	FONT-SIZE: 9pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.d:hover {
+	FONT-SIZE: 9pt; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A.d:visited {
+	FONT-SIZE: 9pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.e:link {
+	FONT-SIZE: 9pt; COLOR: #ac6a6a; TEXT-DECORATION: none
+}
+A.e:hover {
+	FONT-SIZE: 9pt; COLOR: #ac6a6a; TEXT-DECORATION: underline
+}
+A.e:visited {
+	FONT-SIZE: 9pt; COLOR: #ac6a6a; TEXT-DECORATION: none
+}
+.tsonybbc {
+	FONT-SIZE: 9pt; LETTER-SPACING: 2px
+}
